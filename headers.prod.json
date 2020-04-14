@@ -1,0 +1,11 @@
+{
+  "csp": {
+    "script-src": ["mp-ctsc-example-app.now.sh"],
+    "connect-src": [
+      "mp-ctsc-example-app.now.sh",
+      "mc-api.commercetools.co",
+      "mc-api.us-central1.gcp.commercetools.com"
+    ],
+    "style-src": ["mp-ctsc-example-app.now.sh"]
+  }
+}

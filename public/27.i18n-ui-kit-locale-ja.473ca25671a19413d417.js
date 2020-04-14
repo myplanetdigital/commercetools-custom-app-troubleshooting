@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[27],{"./node_modules/@commercetools-uikit/i18n/data/ja.json":function(o){o.exports=JSON.parse("{}")}}]);
+//# sourceMappingURL=27.i18n-ui-kit-locale-ja.473ca25671a19413d417.js.map
